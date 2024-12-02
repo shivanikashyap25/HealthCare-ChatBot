@@ -1,5 +1,3 @@
-# HealthCare-ChatBot
-
 # HealthCare ChatBot 🤖💊
 Welcome to the HealthCare ChatBot repository! This chatbot is designed to assist users with medical guidance, predict possible diseases based on symptoms, and suggest precautions. It leverages machine learning and decision tree models to deliver accurate predictions.
 
